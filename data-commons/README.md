@@ -48,7 +48,7 @@ data-commons/
 ├── package.json           # Project metadata and dependencies
 ├── vite.config.js         # Vite configuration file
 └── README.md              # Project documentation
-
+```
 
 ## Installation
 
