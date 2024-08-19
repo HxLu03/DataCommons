@@ -61,7 +61,7 @@ data-commons/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/data-commons.git
+   git clone https://github.com/HxLu03/DataCommons.git
    cd data-commons
    ```
 
