@@ -35,7 +35,7 @@ export default function SignIn() {
     const password = data.get('password');
 
     // Replace this with actual authentication logic
-    const isAuthenticated = email === 'leo0306lu@gmail.com' && password === '';
+    const isAuthenticated = email === '' && password === '';
 
     if (isAuthenticated) {
       dispatch(login());  // Dispatch login action
